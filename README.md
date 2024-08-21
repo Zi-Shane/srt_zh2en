@@ -1,4 +1,5 @@
-# SRT file translation tool
+# SRT file translation tool (English->Chinese)
+# SRT字幕翻譯腳本(中翻英)
 
 ## Overview
 
